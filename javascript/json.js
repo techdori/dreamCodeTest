@@ -20,7 +20,7 @@ const rabbit = {
     console.log(`${this.name} can jump!`);
   },
 };
-
+ 
 json = JSON.stringify(rabbit);
 console.log(json);
 
