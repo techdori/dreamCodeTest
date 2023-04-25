@@ -47,7 +47,10 @@ class UserStorage {
     }, 1000);
   }
 }
-
+//1) id, pass
+//2) login
+//3) roles
+//4) print
 const userStorage = new UserStorage();
 const id = prompt('enter your id');
 const password = prompt('enter your passrod');
