@@ -5,3 +5,4 @@ b file add
 test2
 test4
 test11
+test12
